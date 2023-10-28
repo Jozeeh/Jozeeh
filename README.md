@@ -62,10 +62,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="30" alt="apachecassandra logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jozeeh/count.svg?"  />
-</div>
 
 ###
