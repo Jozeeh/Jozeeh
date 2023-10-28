@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name José</h2>
+<h2 align="left">Hi 👋! My name is José</h2>
 
 ###
 
