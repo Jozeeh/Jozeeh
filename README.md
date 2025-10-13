@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hi 👋! My name is José</h2>
 
 <p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Jozeeh&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=Jozeeh&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jozeeh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
